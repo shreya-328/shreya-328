@@ -96,7 +96,7 @@ Comprehensive retail data analysis revealing customer behavior patterns and reve
 **📫 Let's Connect & Collaborate!**
 
 - I'm always excited to discuss data analysis, share insights, and explore new opportunities!
-- LinkedIn : linkedin.com/in/shreya-nigam-ba410b1a5/
+- LinkedIn : (https://www.linkedin.com/in/shreya-nigam-ba410b1a5/)
 - email : shreyaanigam03@gmail.com
   
 💡 **Fun Data Fact**

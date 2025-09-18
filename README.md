@@ -1,5 +1,7 @@
 Hi there! 👋 I'm Shreya
+
 🚀 About Me
+
 Data Analyst passionate about transforming raw data into actionable insights. I specialize in Python, SQL, and visualization tools to solve real business problems and drive data-driven decision making.
 
 💼 What I Do -
@@ -33,8 +35,8 @@ Database Management: Writing efficient SQL queries and managing data pipelines
 - Jupyter Notebooks
 - Git & GitHub
 
-**
-📊 Featured Projects**
+
+📊 **Featured Projects**
 ###
 👥 **HR Employee Analytics**
 

@@ -1,22 +1,24 @@
-Hi there! 👋 I'm Shreya
+Hi there! 👋 
 
-🚀 About Me
+I'm Shreya
 
-Data Analyst passionate about transforming raw data into actionable insights. I specialize in Python, SQL, and visualization tools to solve real business problems and drive data-driven decision making.
+Detail-oriented data analyst skilled in Python, SQL, and business intelligence tools. Experienced in handling the full data workflow, from cleaning and analysis to dashboard development and reporting. Passionate about using data for strategic business decisions.
 
-💼 What I Do -
+**🚀 What I Offer**
 
-Data Analysis & Visualization: Creating compelling dashboards and interactive reports
-Business Intelligence: Turning complex datasets into clear business insights
-Statistical Analysis: Uncovering trends, patterns, and correlations in data
-Database Management: Writing efficient SQL queries and managing data pipelines
+- End-to-end analytics: data cleaning, EDA, reporting, dashboarding
+- Advanced SQL for segmentation, feature engineering, and event rates
+- Interactive dashboards in Power BI and Tableau
+- Clear communication of insights for business impact
+- Collaborative project delivery with cross-functional teams
 
-**🛠️ Technical Skills**
+**💡 Technical Skills**
 
 **Programming & Analysis:**
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- SQL (MySQL)
+- SQL (MSSQL, Microsoft SQL Server)
+- Data Analysis & Visualization
 
 **Visualization Tools:**
 
@@ -26,71 +28,64 @@ Database Management: Writing efficient SQL queries and managing data pipelines
 
 **Tools & Platforms:**
 
-- Visual Studio Code
-- Azure Data Studio
-- Docker
-- Google Sheets
-- Microsoft Excel
-- Power BI Desktop
-- Jupyter Notebooks
-- Git & GitHub
+  Python | SQL | Power BI | Tableau | Azure SQL | Docker
+Excel | Google Sheets | VS Code | Azure Data Studio | Git & GitHub
 
 
-📊 **Featured Projects**
-###
-👥 **HR Employee Analytics**
 
-End-to-end HR analytics solution predicting employee attrition and performance metrics
+**📊 Project Highlights**
 
-- 📊 Impact: 85% accuracy in attrition prediction model
-- 🔧 Tech Stack: T-SQL, Power BI, Statistical Modeling
-- 🎯 Key Features: Attrition analysis, performance dashboards, demographic insights
+👨‍💻 **_Credit Risk Analysis_**
 
-###
-📈 **Business Intelligence Dashboards**
+Comprehensive workflow assessing loan default risk using Kaggle's credit risk dataset.
 
-Interactive dashboard collection showcasing KPI tracking and business metrics
+- Impact: Enhanced loan approval accuracy and improved early risk flagging for business stakeholders
 
-- 🎨 Impact: Real-time business monitoring with actionable insights
-- 🔧 Tech Stack: Power BI, Looker Studio, Data Visualization
-- 🎯 Key Features: Interactive filters, automated reporting, mobile-responsive design
+- Tech Stack: Python (pandas), MSSQL (T-SQL), Power BI
 
-###
-🎓 **IBM Python Project for Data Science**
+- Key Features: Data cleaning, risk segmentation with SQL, KPI dashboards for executive decision-making
 
-Real-world data analysis project as part of IBM Data Analyst Professional Certificate
+👥 **_HR Employee Analytics:_**
 
-- 🏆 Achievement: IBM Data Analyst Professional Certificate - Python Project (on it's way)
-- 🔧 Tech Stack: Python, Pandas, Data Visualization, Jupyter Notebooks
-- 🎯 Key Features: Real-world dataset analysis, pattern identification, trend analysis, data-driven insights
-- 📊 Focus: Hands-on Python skills for data science and practical data analysis scenarios
+End-to-end HR analytics solution for predicting employee attrition and performance trends.
 
-###
-🛒 **Retail Sales Analytics**
+- Impact: Informed retention strategies with actionable demographic and role-based insights
 
-Comprehensive retail data analysis revealing customer behavior patterns and revenue optimization opportunities
+- Tech Stack: Python, MSSQL (T-SQL), Power BI, Statistical Analysis
 
-- 📈 Impact: Identified 23% revenue increase potential through seasonal trend analysis
-- 🔧 Tech Stack: Python, SQL, Pandas, Matplotlib, Seaborn
-- 🎯 Key Features: Customer segmentation, sales forecasting, trend analysis
+- Key Features: Attrition analysis, performance dashboards, interactive demographic drilldowns
+
+📈 **_Retail Sales Analytics_**
+
+Retail customer segmentation and revenue optimization analysis.
+
+- Impact: Identified new sales growth opportunities through customer profiling and trend evaluation
+
+- Tech Stack: Python (pandas), MSSQL, Tableau/Power BI
+
+- Key Features: Customer segmentation, sales trend analysis, automated reporting dashboards
+
+📝 **_IBM Data Science Portfolio_**
+
+- Practical EDA and feature engineering for data analysis and data science certification projects.
+
+🎯 **_Recent Focus Areas_**
+
+- Modular, reusable SQL for scalable business analysis
+
+- Advanced scenario dashboards in Power BI
+
+- Automating ETL and analytics pipelines with Python
+
+- Upskilling in statistical modeling and predictive analytics
 
 
-###
-📈 **GitHub Activity**
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-328&layout=compact&theme=default&hide_border=true)
-
-🎯 **What I'm Currently Working On**
-
-- 🤖 Advanced machine learning techniques for business forecasting
-- 📊 Building automated ETL pipelines using Python
-- 🎓 Pursuing advanced analytics certifications
-- 🌟 Contributing to open-source data science projects
 
 🏆 **Certifications & Achievements**
 
-- 🎓 IBM Python for Data Science Professional Certificate
-- 🐍 IBM Python for Data Science, AI and Development + IBM Database and SQL for Data Science in Python
+- IBM Data Analysis with Python
+- IBM Python for Data Science, AI and Development
+- Database and SQL for Data Science with Python
 
 
 **📫 Let's Connect & Collaborate!**
@@ -98,11 +93,8 @@ Comprehensive retail data analysis revealing customer behavior patterns and reve
 - I'm always excited to discuss data analysis, share insights, and explore new opportunities!
 - LinkedIn : (https://www.linkedin.com/in/shreya-nigam-ba410b1a5/)
 - email : shreyaanigam03@gmail.com
-  
-💡 **Fun Data Fact**
 
-"Every day, we create 2.5 quintillion bytes of data - that's enough to fill 10 million Blu-ray discs! I help businesses make sense of this data ocean." 🌊
+⭐️ Currently seeking Data Analyst opportunities where I can drive business growth through data-driven insights!
 
-- ⭐️ Currently seeking Data Analyst opportunities where I can drive business growth through data-driven insights!
-- 💬 Ask me about: Python automation, SQL optimization, dashboard design, or turning messy data into beautiful insights!
+💬 Ask me about: Python automation, SQL optimization, dashboard design, or turning messy data into beautiful insights!
 

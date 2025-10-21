@@ -96,5 +96,3 @@ Retail customer segmentation and revenue optimization analysis.
 
 ⭐️ Currently seeking Data Analyst opportunities where I can drive business growth through data-driven insights!
 
-💬 Ask me about: Python automation, SQL optimization, dashboard design, or turning messy data into beautiful insights!
-

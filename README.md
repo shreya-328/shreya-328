@@ -1,7 +1,7 @@
 ## Hi there! 👋  
 I'm **Shreya Nigam**
 
-Detail-oriented **Data Analyst** with hands-on experience across the complete data lifecycle — from data cleaning and analysis to dashboard development and business reporting. I enjoy transforming complex datasets into clear, actionable insights that support strategic decision-making.
+Detail-oriented **Data Analyst** with hands-on experience across the complete data lifecycle - from data cleaning and analysis to dashboard development and business reporting. I enjoy transforming complex datasets into clear, actionable insights that support strategic decision-making.
 
 ---
 
